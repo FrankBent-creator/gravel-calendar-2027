@@ -189,7 +189,7 @@ md.innerHTML=`<div class="dr">● Draft: placeholder content marked in gray.</di
 <dt>Routes</dt><dd>${e.routes?e.routes.map(r=>`<div class="rt"><b>${esc(r[0])}</b> ${esc(r[1])}${r[2]?' · '+esc(r[2]):''}</div>`).join(''):esc(e.dist)}${e.note?`<div class="np">${esc(e.note)}</div>`:''}${e.also?`<div class="also">${esc(e.also)}</div>`:''}${e.prior?`<div class="also">${esc(e.prior)}</div>`:''}</dd>
 ${e.dl?`<dt>Register by</dt><dd><span class="rbd">${esc(e.dl)}</span><span class="also">Online deadline on the registration page${e.dlalso?' · '+esc(e.dlalso):''}</span></dd>`:''}
 <dt>Status</dt><dd><span class="stt">${esc(e.status)}</span></dd>
-<dt>Terrain</dt><dd>${fld(e.terrain,'terrain')}</dd><dt>Start</dt><dd>${fld(e.start,'start')}</dd></dl>
+${e.terrain?`<dt>Terrain</dt><dd>${esc(e.terrain)}</dd>`:''}<dt>Start</dt><dd>${fld(e.start,'start')}</dd></dl>
 <p class="src">Source: organizer site (${esc(new URL(e.org).hostname)}), checked Oct 13, 2026. Distances follow our verified list; confirm details with the organizer.</p></div></div>`;
 ov.classList.remove('hide');document.body.classList.add('lock');md.scrollTop=0;md.querySelector('.x').focus()}
 function closeM(){if(location.hash)history.pushState('',document.title,location.pathname+location.search);hideM()}
