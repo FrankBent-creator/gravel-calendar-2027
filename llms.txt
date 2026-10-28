@@ -6,7 +6,7 @@ Main page: https://ridgelinegravel.com/
 
 ## What this site is
 
-- One regional calendar for 2027, from Pendleton to Ukiah. It lists 27 events: 22 with a 2027 date confirmed by the organizer and 5 still waiting on a confirmed date.
+- One regional calendar for 2027, from Pendleton to Ukiah. It lists 28 events: 23 with a 2027 date confirmed by the organizer and 5 still waiting on a confirmed date.
 - Each event shows a type (race, ride, fondo or camp), location, date and a link to the organizer's registration or event page. Distances are shown only where the organizer publishes them.
 - It covers all of Oregon plus these Northern California counties: Del Norte, Siskiyou, Modoc, Shasta, Lassen, Trinity, Humboldt, Mendocino, Lake, Tehama, Glenn, Colusa, Butte, Plumas, Sierra and Nevada.
 - Free to use. No account and no paywall.
