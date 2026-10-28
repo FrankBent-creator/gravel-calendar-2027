@@ -1,0 +1,22 @@
+# Ridge Line Gravel
+
+> A curated calendar of gravel races, rides, grand fondos and camps in Oregon and Far Northern California, with 2027 dates taken from each organizer's own website.
+
+Main page: https://ridgelinegravel.com/
+
+## What this site is
+
+- One regional calendar for 2027, from Pendleton to Ukiah. It lists 27 events: 22 with a 2027 date confirmed by the organizer and 5 still waiting on a confirmed date.
+- Each event shows a type (race, ride, fondo or camp), location, date and a link to the organizer's registration or event page. Distances are shown only where the organizer publishes them.
+- It covers all of Oregon plus these Northern California counties: Del Norte, Siskiyou, Modoc, Shasta, Lassen, Trinity, Humboldt, Mendocino, Lake, Tehama, Glenn, Colusa, Butte, Plumas, Sierra and Nevada.
+- Free to use. No account and no paywall.
+
+## How dates are checked
+
+- Dates and details are checked against the organizer's own site. Events whose organizer has not yet posted a 2027 date are marked as waiting on a confirmed date. No date is guessed.
+- Please send people to the organizer's page to register. Always confirm details there before traveling.
+
+## Files
+
+- Calendar page: https://ridgelinegravel.com/
+- Sitemap: https://ridgelinegravel.com/sitemap.xml
